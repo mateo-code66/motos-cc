@@ -8,6 +8,7 @@ h1 {
     font-size: 48px;
     text-align: center;
     color: #f00000;
+    cursor: pointer;
 }
 
 .contenedor-motos {
